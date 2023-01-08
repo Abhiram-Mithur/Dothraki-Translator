@@ -1,0 +1,48 @@
+:root{
+ --primary-color:white;
+ background-color: #3f3f46;
+}
+
+
+
+textarea{
+    margin: 2rem;
+    height: 15vh;
+    width: 90%;
+    display: block;
+}
+#button{
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    font-size: x-large;
+}
+.center{
+    text-align: center;
+}
+.output{
+    font-size: larger;
+    color: var(--primary-color);
+}
+
+#outputTxt{
+    background-color: white;
+    border: 1px solid black;
+    width: 90%;
+    height:15vh;
+    margin: 2rem;
+}
+.header{
+    text-align: center;
+    color:#fbbf24;
+}
+.footer{
+    text-align: center;
+    font-weight: bold;
+    font-size: larger;
+    padding-top: 10rem;
+    color: var(--primary-color);
+}
+p{
+    color: var(--primary-color);
+}
